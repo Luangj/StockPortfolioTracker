@@ -12,12 +12,14 @@ Portfolio Overview:
 | Nvidia | NVDA | 21% | Market leaders, dominates the GPU market - necessary for AI and adoption of AI in all sectors means there is huge potenital
 | Sarepta Therapeutics|  SRPT | 50$%| 
 | Stratasys| SSYS| | market cap of only $800M, works with the US government and Debbie Schultz, a member of US congress has filed a buy order. In addition she is the chair of the military construction subcommittee
+Google ALPHABET Class A - public cloud space, but regulators could come in and minimise their market dominance
+
 
 
 Porfolio Strategy : 
 
 Allocate 30% of profits made from my enterprise
-Diversificaiton across sectors to manage risk
+Diversification across sectors to manage risk
 Allocate some of my porfolio into higher risk industries like Healthcare
 Focusing on companies with market leadership such as NVDA
 
