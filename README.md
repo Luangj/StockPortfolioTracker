@@ -10,11 +10,14 @@ Portfolio Overview:
 | Stock | Ticker | % of Portfolio | Investment Rationale |
 
 | Nvidia | NVDA | 21% | Market leaders, dominates the GPU market - necessary for AI and adoption of AI in all sectors means there is huge potenital
-| Sarepta Therapeutics|  SRPT | 50$%| 
+| Sarepta Therapeutics|  SRPT | 50$%| lots of lawsuits and currently going through debt restructuring.
 | Stratasys| SSYS| | market cap of only $800M, works with the US government and Debbie Schultz, a member of US congress has filed a buy order. In addition she is the chair of the military construction subcommittee
 Google ALPHABET Class A - public cloud space, but regulators could come in and minimise their market dominance
 
 
+future stocks :
+
+Palantir PLTR
 
 Porfolio Strategy : 
 
