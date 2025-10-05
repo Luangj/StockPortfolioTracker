@@ -31,3 +31,11 @@ Additional Notes :
 
 Visual representations can be 
 
+update:
+As of 5/10/25 portfolio is up 18.32% with SRPT up to 22.70 where I averaged buy orders at 19.50$
+SSYS  is at 11.86$ where i bought at 10.91
+NVDA is at 187.66; bought at 170.19
+GOOGL is at 245.21; bought at 208.86
+
+currently evaluating the future of quantum computing, while hsbc has seen some practicality from what i have read due to my studies in financial mathematics. 
+
