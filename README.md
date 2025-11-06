@@ -44,3 +44,34 @@ GOOGL is at 245.21; bought at 208.86
 
 currently evaluating the future of quantum computing, while hsbc has seen some practicality from what i have read due to my studies in financial mathematics. 
 
+
+06/11/25 - recapping on what has happened. 
+
+SRPT - sold off some of my porfolio initially @ 24.18 while still holding a large majority. during earnings they reported better than expected however trial data was not as favourable, watching SRPT live during earnings it did initially show strong sentiment for the ticker, however quickly after a huge sell of initiated even reaching a low of $16.20. since then it has partially recovered to around 18.50, however i am still holding during this period
+
+same with PLTR, they also had their earnings release the same day as Sarepta, they too faced a drop of from their earnings despite strong releases. i currently hold the same value porfolio amount for both $SRPT & $PLTR
+
+I started to invest more into NVDA but since the SRPT and PLTR earnings releases and their stock price effect on my portfolio, i have become more aware of the risks and I have started to think about when I should decide to take realised profits/losses. in this case with NVDA there is still speculation especially with Michael Burrys insight into NVDA where he poses a short relationship with the company.
+
+However since this event, I have also started to diversify myself across more sectors, reaching further than healthcare and tech and even into Consumer goods and Finance.
+
+Despite all of this turbelence I am happy to say that i still pose an overall positive return for the year at 3.27% at 06/11/25 coming down from the initial 11.79% high£
+
+for Q4 i am going to try to expand my sight on companies
+
+My positions in order of Holdings:£
+NVDA
+UNH
+SPRB
+PLTR
+SRPT
+GOOGL
+GPUS
+KO
+NFLX
+JPM
+UBER
+RBLX
+TLRY
+BYND
+
